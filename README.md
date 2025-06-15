@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try LeetVista](https://github.com/Sohailmateen/LeetMatric)  
+🔗 [Click here to try LeetVista](https://sohailmateen.github.io/LeetMatric/)  
 
 ---
 
