@@ -7,14 +7,12 @@
 ## 🌐 Live Demo
 
 🔗 [Click here to try LeetVista](https://github.com/Sohailmateen/LeetMatric)  
-> _Note: Replace this with your actual GitHub Pages or live deployment link._
 
 ---
 
 ## 📸 Preview
 
 ![LeetVista Preview](./screenshot.png)  
-> _Add a screenshot named `screenshot.png` to your project root._
 
 ---
 
